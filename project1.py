@@ -5,3 +5,4 @@
 print('hello, world!')
 
 print('隔壁傻逼')
+print('隔壁傻逼')
